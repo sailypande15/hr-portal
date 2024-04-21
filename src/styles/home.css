@@ -1,0 +1,20 @@
+.item-center {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+.bg-img {
+
+background-image: url('../../public/images/background_login_image.jpeg');
+background-size: cover; /* Cover the entire background */
+background-repeat: no-repeat; /* No repeating of the background image */ 
+
+}
+.border {
+    border: 1px solid rgb(7, 7, 20);
+
+}
+h3 {
+    color: rgb(2, 2, 36);
+}
